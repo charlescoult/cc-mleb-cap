@@ -1,0 +1,9 @@
+[submodule "cc-mleb-sda"]
+	path = cc-mleb-sda
+	url = git@github.com:charlescoult/cc-mleb-sda
+[submodule "cc-mleb-afp"]
+	path = cc-mleb-afp
+	url = git@github.com:charlescoult/cc-mleb-afp
+[submodule "cc-mleb-spp"]
+	path = cc-mleb-spp
+	url = git@github.com:charlescoult/cc-mleb-spp
