@@ -1,4 +1,4 @@
-# Machine Learning Engineering Bootcamp Capstone Project: git-mleb-cap
+# Machine Learning Engineering Bootcamp Capstone Project: *cc-mleb-cap*
 Repository for Capstone project proposals and dataset exploration
 
 # Relevant Documents
